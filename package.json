@@ -1,6 +1,6 @@
 {
   "name": "@telemetry-js/metric",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Single value and summary metrics",
   "license": "MIT",
   "author": "Vincent Weevers",
